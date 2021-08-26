@@ -1,9 +1,7 @@
 ### Diagrama en bloques Simulador de un radar fmcw
-
+![image](radar_fmcw_sim/gnuradio_radar_fmwc_diagrama.JPG)
 
 ### Simulador de un radar fmcw realizado con gnuradio
-
-
 
 
 - [x] **Fc = 2.4 GHz**
